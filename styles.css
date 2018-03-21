@@ -1,0 +1,47 @@
+header {
+    background-color: gray;
+    color:blanchedalmond;
+    border: 20px solid seagreen;
+    margin: 25px 50px 75px 100px;
+
+}
+header h1 {
+    border-color: greenyellow;
+    font-style: italic
+    font-size= 2.5em;
+}
+header h2 {
+    border-bottom-color: blueviolet;
+    font-style: italic
+    font-size= 40px;
+}
+
+a {
+    background:  color= whitesmoke;
+    text-decoration-color: black;
+
+
+}
+#newfont {
+    font-style:italic;
+}
+
+
+
+.grouping {
+    text-align: center;
+    
+}
+article {
+    display: block;
+}
+main {
+    background-color: royalblue;
+}
+body {
+    background-color: palegreen;
+}
+
+footer {
+    background-color: red;
+}
